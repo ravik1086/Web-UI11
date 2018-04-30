@@ -40,7 +40,7 @@ body {
 }
 
 .header {
-    background-color: #d33a2c;
+    background-color: #5210eb;
     padding: 1% 2% 2% 2%;
     color: #fff;
 }
@@ -115,6 +115,7 @@ nav ul li {
     height: 93px;
     perspective: 1000px;
     transform-style: preserve-3d;
+    
 }
 
 .user-container .user-block:hover {
@@ -207,7 +208,7 @@ padding: 5px 0px 5px 10px;
     color: #b52c1f;
     background: #fff;
     border: 1px solid #b52c1f;
-    padding: 5px 10px;
+    padding: 3px 4px;
 }
 /****************** Footer CSS  - START ******************/
 
